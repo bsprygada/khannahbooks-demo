@@ -1,13 +1,7 @@
-objectid,filename,isbn-13,title,creator,releasedate,subject,,,,,,,,
-coll001,TheWomen-Cover-2307.jpg,978-1250178633,The Women,Kristin Hannah,6-Feb-24,Vietnam,,,,,,,,
-coll002,TheFourWinds-Cover-PB-2303.jpg,978-1250178602,The Four Winds,Kristin Hannah,2-Feb-21,Western Migration,,,,,,,,
-coll003,TheGreatAlone_PBCover_0919.jpg,978-0312577230,The Great Alone,Kristin Hannah,6-Feb-18,Alaska,,,,,,,,
-coll004,Nightingale-PB.jpg,978-0312577223,The Nightingale,Kristin Hannah,3-Feb-15,WWII,,,,,,,,
-coll005,firefly-lane-kristin-hannah.jpg,978-0312364083,Firefly Lane,Kristin Hannah,5-Feb-08,Friendship,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
+objectid,filename,isbn-13,title,creator,releasedate,subject
+coll001,TheWomen-Cover-2307.jpg,978-1250178633,The Women,Kristin Hannah,6-Feb-24,Vietnam
+coll002,TheFourWinds-Cover-PB-2303.jpg,978-1250178602,The Four Winds,Kristin Hannah,2-Feb-21,Western Migration
+coll003,TheGreatAlone_PBCover_0919.jpg,978-0312577230,The Great Alone,Kristin Hannah,6-Feb-18,Alaska
+coll004,Nightingale-PB.jpg,978-0312577223,The Nightingale,Kristin Hannah,3-Feb-15,WWII
+coll005,firefly-lane-kristin-hannah.jpg,978-0312364083,Firefly Lane,Kristin Hannah,5-Feb-08,Friendship
+coll006,banner.jpg,,banner,,,
